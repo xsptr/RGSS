@@ -1,0 +1,17 @@
+/**
+ * RGSS Shoppng Web
+ *
+ *//
+
+ - Buat database dengan nama rgss
+ - import table customers.sql
+ - Coba register, kemudian login
+ - Coba pesan barang, checkout, place order
+ - Coba delete atau rubah profil
+ - Coba login dengan admin
+
+
+
+ - username admin
+ 	username : admin
+ 	password : admin
